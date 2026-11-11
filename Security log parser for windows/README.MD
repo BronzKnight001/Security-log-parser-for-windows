@@ -108,4 +108,4 @@ To try it out on your machine:
 
 ## License
 
-This project is released under the MIT License. You are free to use it modify it or include it in your projects.
+This project is released under the MIT License.
